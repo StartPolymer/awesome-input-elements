@@ -1,0 +1,22 @@
+{
+  "name": "awesome-input-elements",
+  "description": "Awesome up-to-date input elements.",
+  "keywords": [
+    "input",
+    "element-collection"
+  ],
+  "authors": [
+    "The StartPolymer Project Authors (https://github.com/StartPolymer/authors)"
+  ],
+  "license": "https://github.com/StartPolymer/license",
+  "dependencies": {
+    "gold-elements": "PolymerElements/gold-elements",
+    "paper-input-elements": "PolymerElements/paper-input-elements",
+    "paper-range-slider": "IftachSadeh/paper-range-slider",
+    "paper-search-input": "vic10us/paper-search-input",
+    "vaadin-combo-box": "vaadin/vaadin-combo-box",
+    "vaadin-date-picker": "vaadin/vaadin-date-picker",
+    "vaadin-upload": "vaadin/vaadin-upload"
+  },
+  "private": true
+}
