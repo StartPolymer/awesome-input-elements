@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "gold-elements": "PolymerElements/gold-elements",
+    "paper-input-autocomplete-chips": "WebPaperElements/paper-input-autocomplete-chips",
     "paper-input-elements": "PolymerElements/paper-input-elements",
     "paper-range-slider": "IftachSadeh/paper-range-slider",
     "paper-search-input": "vic10us/paper-search-input",
