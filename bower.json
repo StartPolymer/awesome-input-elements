@@ -10,9 +10,9 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "gold-elements": "PolymerElements/gold-elements#^1.0.0",
+    "gold-elements": "StartPolymer/gold-elements#^1.0.0",
     "paper-dropdown-input": "Juravenator/paper-dropdown-input#^2.0.0",
-    "paper-input-elements": "StartPolymer/paper-input-elements#^1.0.0",
+    "paper-input-elements": "PolymerElements/paper-input-elements",
     "paper-input-place": "mlisook/paper-input-place#^1.0.0",
     "paper-range-slider": "IftachSadeh/paper-range-slider#^0.2.8",
     "paper-search": "Collaborne/paper-search#^2.0.0",
