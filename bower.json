@@ -11,10 +11,11 @@
   "license": "MIT",
   "dependencies": {
     "gold-elements": "PolymerElements/gold-elements",
-    "paper-input-autocomplete-chips": "WebPaperElements/paper-input-autocomplete-chips",
-    "paper-input-elements": "PolymerElements/paper-input-elements",
+    "paper-dropdown-input": "Juravenator/paper-dropdown-input",
+    "paper-input-elements": "StartPolymer/paper-input-elements",
+    "paper-input-place": "mlisook/paper-input-place",
     "paper-range-slider": "IftachSadeh/paper-range-slider",
-    "paper-search-input": "vic10us/paper-search-input",
+    "paper-search": "Collaborne/paper-search",
     "vaadin-combo-box": "vaadin/vaadin-combo-box",
     "vaadin-date-picker": "vaadin/vaadin-date-picker",
     "vaadin-upload": "vaadin/vaadin-upload"
