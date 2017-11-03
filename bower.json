@@ -10,14 +10,15 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "gold-elements": "PolymerElements/gold-elements",
-    "paper-input-autocomplete-chips": "WebPaperElements/paper-input-autocomplete-chips",
-    "paper-input-elements": "PolymerElements/paper-input-elements",
-    "paper-range-slider": "IftachSadeh/paper-range-slider",
-    "paper-search-input": "vic10us/paper-search-input",
-    "vaadin-combo-box": "vaadin/vaadin-combo-box",
-    "vaadin-date-picker": "vaadin/vaadin-date-picker",
-    "vaadin-upload": "vaadin/vaadin-upload"
+    "gold-elements": "PolymerElements/gold-elements#^1.0.0",
+    "paper-dropdown-input": "Juravenator/paper-dropdown-input#^2.0.0",
+    "paper-input-elements": "PolymerElements/paper-input-elements#^1.0.0",
+    "paper-input-place": "mlisook/paper-input-place#^1.0.0",
+    "paper-range-slider": "IftachSadeh/paper-range-slider#^0.2.8",
+    "paper-search": "Collaborne/paper-search#^2.0.0",
+    "vaadin-combo-box": "vaadin/vaadin-combo-box#^2.0.0",
+    "vaadin-date-picker": "vaadin/vaadin-date-picker#^1.0.0",
+    "vaadin-upload": "vaadin/vaadin-upload#^2.0.0"
   },
   "private": true
 }
